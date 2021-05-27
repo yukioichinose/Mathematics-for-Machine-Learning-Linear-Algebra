@@ -12,3 +12,9 @@ This is a repository that saves programming assignments created for a Coursera c
 - Week3 Start: May 9th      End: May 27th
 - Week4 Start: 
 - Week5 Start: 
+
+## Useful Links
+*This list contains links that I used for facilitating my understanding of vectors. Since I am a native Japanese speaker, most of the links in this list are based on Japanese. (It gives me better understanding of the contents)
+
+1. (【大学数学】線形代数入門①(概観&ベクトル)【線形代数】 (Intro to Linear Algebra))[https://www.youtube.com/watch?v=svm8hlhF8PA] by Yobinori Takumi
+2. 
