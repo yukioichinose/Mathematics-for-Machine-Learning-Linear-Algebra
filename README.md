@@ -15,7 +15,7 @@ This is a repository that saves programming assignments created for [a Coursera 
 - Week1 Start: April 30th   End: May 2nd
 - Week2 Start: May 2nd      End: May 8th
 - Week3 Start: May 9th      End: May 27th
-- Week4 Start: 
+- Week4 Start: May 28th     End: 
 - Week5 Start: 
 
 ## Useful links
