@@ -21,5 +21,6 @@ This is a repository that saves programming assignments created for [a Coursera 
 ## Useful links
 *This list contains links that I used for facilitating my understanding of vectors. Since I am a native Japanese speaker, most of the links in this list are based on Japanese. (It gives me better understanding of the contents)
 
-1. [【大学数学】線形代数入門①(概観&ベクトル)【線形代数】 (Intro to Linear Algebra)](https://www.youtube.com/watch?v=svm8hlhF8PA) by Yobinori Takumi
-2. [Einstein Summation Convention: an Introduction](https://www.youtube.com/watch?v=CLrTj7D2fLM) by Faculty of Khan
+1. [【大学数学】線形代数入門①(概観&ベクトル)【線形代数】 (Intro to Linear Algebra)](https://www.youtube.com/watch?v=svm8hlhF8PA) - This YouTube channel provides cram school like lecture on a mathematical topic. Takumi does a excellent job at explaining Linear Algebra by calculating slowly and proving equations.
+2. [Einstein Summation Convention: an Introduction](https://www.youtube.com/watch?v=CLrTj7D2fLM) - This helped me understand Einstein Summation Convention, which was introduced in Week 4 of this course.
+3. [行列の積(掛け算)とは何か？計算方法と意味が圧倒的によくわかる解説](https://www.headboost.jp/what-is-matrix-multiplication/) - This webpage (Japanese) illustrates how matrix transform vectors with animation. 
