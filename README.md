@@ -19,7 +19,7 @@ This section has some useful hints for Quizes.
 - Week1 Start: April 30th   End: May 2nd
 - Week2 Start: May 2nd      End: May 8th
 - Week3 Start: May 9th      End: May 27th
-- Week4 Start: May 28th     End: 
+- Week4 Start: May 28th     End: June 1st
 - Week5 Start: 
 
 ## Useful links
@@ -30,3 +30,4 @@ This section has some useful hints for Quizes.
 3. [行列の積(掛け算)とは何か？計算方法と意味が圧倒的によくわかる解説](https://www.headboost.jp/what-is-matrix-multiplication/) - This webpage (Japanese) illustrates how matrix transform vectors with animation. 
 4. [Einsten summation, notes on matrix multiplication and symmetry of the dot product
 ](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/Week4.ipynb) - This github page helped me solve the week 4's quiz, [Example: Using non-square matrices to do a projection](https://www.coursera.org/learn/linear-algebra-machine-learning/quiz/GYaMz/example-using-non-square-matrices-to-do-a-projection). This quiz required a comprehensive knowledge of things I learned throughout the course. Also, it seems that other students who took this course strggled with this quiz. 
+5. [基礎線形代数講座](https://www.slideshare.net/SEGADevTech/ss-249343092) - This slideshare is provided by SEGA. This PDF explains Linear Algebra thoroughly, from the standpoint of game programmer. It is worth a look if you understand Japanese and want to become a game programmer. 
